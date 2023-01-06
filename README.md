@@ -1,2 +1,2 @@
 # CAVSim
-The code will soon be open source.
+The code will be open source soon.
