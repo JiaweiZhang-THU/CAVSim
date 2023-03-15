@@ -45,5 +45,5 @@ A Traffic Simulator for Connected and Automated Vehicles (CAVs)
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
-@article{}
+@article{ Under review }
 ```
