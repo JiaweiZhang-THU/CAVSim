@@ -5,9 +5,7 @@
 
 
 ## Introduction
-> ***Detailed introduction and usage will be available after the corresponding paper is published, so stay tuned!*** 
->
-> ***Thanks!***
+> ***Detailed introduction and usage will be available after the corresponding paper is published. Thanks!***
 
 
 
