@@ -1,4 +1,5 @@
-# CAVSim: A Traffic Simulator for Connected and Automated Vehicles (CAVs)
+# CAVSim
+A Traffic Simulator for Connected and Automated Vehicles (CAVs)
 ---
 
 
