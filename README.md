@@ -17,10 +17,10 @@
 
   <img src="Visualization\Cooperative Driving at Signal-free Intersections_1.gif" alt="Cooperative Driving at Signal-free Intersections_1" style="zoom:80%;" />
 
+ 
+  <img src="Visualization\Cooperative Driving at Signal-free Intersections_2.gif" alt="Cooperative Driving at Signal-free Intersections_2" style="zoom:90%;" />
+
   
-
-  ![Cooperative Driving at Signal-free Intersections_2](Visualization\Cooperative Driving at Signal-free Intersections_2.gif)
-
   
 
 + **Multi-CAV Merging at On-ramps**
@@ -33,13 +33,17 @@
 
 + **Lane Change at Straight Lane**
 
-  ![Straight Lane](Visualization\Straight Lane.gif)
+
+  <img src="Visualization\Straight Lane.gif" alt="Straight Lane" style="zoom:80%;" />
 
   
 
 + **Simulation of Road Network Traffic**
 
-  ![Network-wide Traffic Simualtion](Visualization\Network-wide Traffic Simualtion.gif)
+
+  <img src="Visualization\Network-wide Traffic Simualtion.gif" alt="Network-wide Traffic Simualtion" style="zoom:90%;" />
+
+  
 
   
 ## Citation
