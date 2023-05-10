@@ -1,15 +1,12 @@
 # CAVSim
-A Traffic Simulator for Connected and Automated Vehicles (CAVs)
+
+CAVSim: A Traffic Simulator for Connected and Automated Vehicles (CAVs)
 ---
 
 
-## Introduction
-> ***These are the basic components of CAVSim.***
->
-> ***Detailed introduction and usage will be available after the corresponding paper is published.***
->
-> ***Thanks!***
+## Framework
 
+  <img src="Visualization\CAVSim Framework.svg" alt="The overall framework of CAVSim." style="zoom:100%;" />
 
 
 ## Simulation Examples
@@ -45,5 +42,22 @@ A Traffic Simulator for Connected and Automated Vehicles (CAVs)
 ## Citation
 If you find our work is useful in your research, please consider citing:
 ```
-@article{ Under review }
+@ARTICLE{Zhang2023CAVSim,
+  title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles},
+  author={Zhang, Jiawei and Chang, Cheng and He, Zimin and Zhong, Wenqin and Yao, Danya and Li, Shen and Li, Li},
+  journal={IEEE Transactions on Intelligent Transportation Systems (T-ITS)},
+  year={2023},
+  publisher={IEEE}
+}
+```
+```
+@INPROCEEDINGS{Zhang2022CAVSim,
+  author={Zhang, Jiawei and Chang, Cheng and Pei, Huaxin and Peng, Xinyu and Guo, Yuqing and Lian, Renzong and Chen, Zhenwu and Li, Li},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={CAVSim: A Microscope Traffic Simulator for Connected and Automated Vehicles Environment}, 
+  year={2022},
+  pages={3719-3724},
+  doi={10.1109/ITSC55140.2022.9922267},
+  publisher={IEEE}
+}
 ```
