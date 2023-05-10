@@ -45,7 +45,7 @@ If you find our work is useful in your research, please consider citing:
 @ARTICLE{Zhang2023CAVSim,
   title={CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles},
   author={Zhang, Jiawei and Chang, Cheng and He, Zimin and Zhong, Wenqin and Yao, Danya and Li, Shen and Li, Li},
-  journal={IEEE Transactions on Intelligent Transportation Systems (T-ITS)},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2023},
   publisher={IEEE}
 }
