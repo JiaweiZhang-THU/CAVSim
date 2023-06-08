@@ -47,6 +47,8 @@ If you find our work is useful in your research, please consider citing:
   author={Zhang, Jiawei and Chang, Cheng and He, Zimin and Zhong, Wenqin and Yao, Danya and Li, Shen and Li, Li},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2023},
+  pages={1-17},
+  doi={10.1109/TITS.2023.3273565},
   publisher={IEEE}
 }
 ```
