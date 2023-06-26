@@ -63,3 +63,7 @@ If you find our work is useful in your research, please consider citing:
   publisher={IEEE}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JiaweiZhang-THU/CAVSim&type=Date)](https://star-history.com/#JiaweiZhang-THU/CAVSim&Date)
