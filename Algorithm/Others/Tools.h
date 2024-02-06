@@ -13,6 +13,7 @@ inline std::string doubleToStringRound2(double val)
     return str;
 }
 
+
 inline std::string doubleToStringRound0(double val)
 {
     char* chCode;
