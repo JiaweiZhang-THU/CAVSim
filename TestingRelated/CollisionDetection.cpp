@@ -15,6 +15,7 @@ CollisionDetection::CollisionDetection(int aIntersectionOneWayLanesNum, double a
 CollisionDetection::~CollisionDetection()
 {
 }
+
 bool CollisionDetection::IsTwoVehicleCollision(Vehicle aVehicleA, Vehicle aVehicleB)
 {
 	bool IsCollision = false;
