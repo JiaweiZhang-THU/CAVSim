@@ -69,7 +69,6 @@ double CarFollowingIDM::AgentBasedCarFollowing(double aHeadDistance, double aHea
 	return UpdatedFollowingSpeed;
 }
 
-
 double CarFollowingIDM::AgentBasedCarFollowingForStringStability(double aHeadDistance, double aHeadSpeed, double aFollowingSpeed, double aAccelerationLastStep, Vehicle AgentVehicle, double aTimeStep, double& aHeadwayDistance, double& aAcceleration)
 {
 	double local_MaxAcceleration = AgentVehicle.MaxStraightAccel;
