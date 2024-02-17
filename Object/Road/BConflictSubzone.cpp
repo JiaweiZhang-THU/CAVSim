@@ -22,6 +22,7 @@ BConflictSubzone::BConflictSubzone()
 	}
 }
 
+
 BConflictSubzone::BConflictSubzone(double aSideLength, BPointCoordinate aLocation, double aDirection)
 {
 	BConflictSubzone::SideLength = aSideLength;
