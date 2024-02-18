@@ -41,9 +41,7 @@ public:
 	list<Vehicle> ToDeleteList;
 
 	map<int, DrivingPlan> DrivingPlanDict;
-
 	string AlgorithmInformation;
-
 	list<TimingRecord> RecordList;
 
 	TimingRecord* CurrRecord;
