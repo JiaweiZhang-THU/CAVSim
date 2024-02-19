@@ -14,6 +14,7 @@ IntersectionStrategyEvaluation::IntersectionStrategyEvaluation()
 	memset(IntersectionStrategyEvaluation::VehicleId2RecordId, -1, sizeof(IntersectionStrategyEvaluation::VehicleId2RecordId));
 }
 
+
 IntersectionStrategyEvaluation::~IntersectionStrategyEvaluation()
 {
 	for (vector<vector<double>*>::iterator RecordIter = IntersectionStrategyEvaluation::SpeedRecordinControlArea.begin(); RecordIter != SpeedRecordinControlArea.end(); RecordIter++)
