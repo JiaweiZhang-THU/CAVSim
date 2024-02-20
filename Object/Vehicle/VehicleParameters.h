@@ -22,7 +22,6 @@ double paraDefaultAngularSpeed = 0;
 double paraDefaultPoseAngle = 0;
 double paraDefaultRoadDirection = 0;
 BPointCoordinate paraDefaultLocation(0, 0);
-
 double paraLaneUnitWidthDefinedInLaneUnit = 4; 
 double paraDistanceNoise = 0.05;
 
