@@ -11,7 +11,6 @@
 #include <string>
 
 #include "../Object/Vehicle/Vehicle.h"
-
 #include "../Object/Road/MergingBlock.h"
 #include "../Algorithm/Distributed/LaneChangingModel.h"
 #include "../Algorithm/Distributed/TrajectoryPlanning.h"
