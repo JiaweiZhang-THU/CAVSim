@@ -79,15 +79,12 @@ Vehicle::Vehicle(void)
 
 	Vehicle::Acceleration = 0;
 	Vehicle::AccelerationAtLastStep = 0;
-
 	Vehicle::HeadwayBetweenTheEgoAndFronVehicle = 0;
 
 	Vehicle::WhetherToSendRealtimeSpeed = false;
 
 	Vehicle::TimeOfEnteringIntersectionCircleControlZone = -1;
-
 	Vehicle::TimeOfEnteringIntersectionConflictZone = -1;
-
 	Vehicle::TravelDistance = 0;
 }
 
