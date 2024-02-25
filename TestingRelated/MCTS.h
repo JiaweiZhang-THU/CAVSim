@@ -23,7 +23,7 @@ public:
 	const int DEFAULT_MIN_T = 0;
 
 	const int DEFAULT_MIN_VISITS = 0;
-	int paraLaneNum6 = 2; //默认车道数
+	int paraLaneNum6 = 2; //脛卢脠脧鲁碌碌脌脢媒
 
 	Node* root;
 
@@ -128,6 +128,7 @@ public:
 	}
 
 	void updateRoot(vector<double>* tAssignMin);
+
 	void updateRoot();
 
 	void setTime(int time) {
