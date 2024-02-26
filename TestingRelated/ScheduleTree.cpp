@@ -347,6 +347,7 @@ void ScheduleTree::CalculatePassingIndex()
 	}
 }
 
+
 bool ScheduleTree::isWiseToArrangeSo(Vehicle former, Vehicle latter)
 {
 	if (former.QueueingIndex - latter.QueueingIndex > ScheduleTree::ToleranceThreshold)
