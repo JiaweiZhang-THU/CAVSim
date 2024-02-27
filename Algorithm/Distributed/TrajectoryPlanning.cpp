@@ -197,10 +197,9 @@ bool TrajectoryPlanning::SpeedPlanningOnMergingZone(double& AgentVehicleSpeed, d
 
 	AgentVehicleSpeed = pow(pow(localLaturalSpeed, 2) + pow(localLongitudeSpeed, 2), 0.5);
 	AgentVehiclePoseAngle = atan(localLaturalSpeed / (localLongitudeSpeed + 0.000001));
-
+	
 	return localHaveDone;
 }
-
 
 bool TrajectoryPlanning::SpeedPlanningOnStraightLane(double& AgentVehicleSpeed, double& AgentVehiclePoseAngle, list<Vehicle> aVehiclesList, Vehicle aVehicle, int aLaneChangeAction)
 {
