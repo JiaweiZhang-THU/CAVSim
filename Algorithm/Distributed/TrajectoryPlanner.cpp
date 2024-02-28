@@ -1,7 +1,6 @@
 #include"TrajectoryPlanner.h"
 #include"TrajectoryPlannerParameters.h"
 
-
 TrajectoryPlanner::TrajectoryPlanner()
 {
 	TrajectoryPlanner::DeltaTime = paraDeltaTime;
