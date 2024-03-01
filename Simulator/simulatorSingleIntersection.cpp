@@ -68,7 +68,6 @@ BNode Simulator1::InitialBNodeForNewVehicle()
 	return *localIter;
 }
 
-
 bool Simulator1::CreateNewVehicle(int aNewVehicleId, Vehicle& NewVehicle)
 {
 	BNode InitialBNodeForNewVehicle = Simulator1::InitialBNodeForNewVehicle();
