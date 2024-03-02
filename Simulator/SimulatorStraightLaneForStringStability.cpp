@@ -3,6 +3,7 @@
 #include "..\Algorithm\Others\Tools.h"
 #include <math.h>
 #include <cmath>
+
 SimulatorStraightLaneForStringStability::SimulatorStraightLaneForStringStability()
 {
 	SimulatorStraightLaneForStringStability::SimulatingStep = 0;
