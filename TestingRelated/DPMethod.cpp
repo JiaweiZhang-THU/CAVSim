@@ -42,6 +42,7 @@ void DPMethod::Run()
 	int pre_parent;
 	State aState;
 	vector<State> stateList;
+	
 	aState.value[0] = 0;
 	aState.value[1] = 0;
 	aState.value[2] = -1;
