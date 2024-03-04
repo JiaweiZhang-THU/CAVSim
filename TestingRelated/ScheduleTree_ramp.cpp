@@ -150,7 +150,6 @@ void ScheduleTree_ramp::FindTimeFIFOPassingOrder()
 			VehicleIdMapTimeEnterRampControlZone.insert(make_pair(*VIdIter, localVehicle.TimeOfEnteringIntersectionCircleControlZone));
 		}
 	}
-
 	vector<pair<int, double>> tVector(VehicleIdMapTimeEnterRampControlZone.begin(), VehicleIdMapTimeEnterRampControlZone.end());
 	sort(tVector.begin(), tVector.end(), local_cmp);
 
