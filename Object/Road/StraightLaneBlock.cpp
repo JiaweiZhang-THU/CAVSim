@@ -1,7 +1,6 @@
 #include<math.h>
 #include<iostream>
 #include "StraightLaneBlock.h"
-
 #include "StraightLaneBlockParameters.h"
 
 const double ANGLE_DELTA_NOISE = 0.1;
