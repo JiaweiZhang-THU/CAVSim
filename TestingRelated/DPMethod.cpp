@@ -4,7 +4,6 @@
 
 DPMethod::DPMethod()
 {
-
 }
 
 DPMethod::~DPMethod()
