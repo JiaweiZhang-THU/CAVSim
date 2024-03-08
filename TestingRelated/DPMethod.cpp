@@ -50,7 +50,6 @@ void DPMethod::Run()
 	aState.parent = -1;
 	stateList.push_back(aState);
 	stateSpace.push_back(stateList);
-
 	
 	for (int i = 0; i < OriginSeqList[0].size() + OriginSeqList[1].size() ; i++) {
 		stateList.clear();
