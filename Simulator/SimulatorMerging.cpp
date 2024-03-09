@@ -5,6 +5,7 @@ SimulatorMerging::SimulatorMerging()
 {
 	SimulatorMerging::SimulatingStep = 0;
 	SimulatorMerging::SimulatingStep2Time = 0;
+	
 	SimulatorMerging::TimeStep = paraTimeStepMerging;
 	SimulatorMerging::TimeIntervalForUpdateTrafficFlowRate = paraTimeIntervalForUpdateTrafficFlowRateMerging;
 
