@@ -7,7 +7,6 @@ class CarFollowing_OVM
 {
 public:
 	double LOW_SPEED_ZERO = 0.0;
-
 public:
 	CarFollowing_OVM();
 	~CarFollowing_OVM();
